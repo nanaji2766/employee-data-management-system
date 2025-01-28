@@ -1,0 +1,1 @@
+A simple and responsive web application that allows users to view, add, edit, and delete user details by interacting with a mock backend API. The application utilizes the JSONPlaceholder API for backend operations, making it ideal for demonstration and testing purposes.
